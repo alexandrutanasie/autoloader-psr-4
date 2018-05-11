@@ -20,3 +20,8 @@ use App\Users\Job;
 new User(); //output Hello world
 new Job(); //output I'm programmer
 ~~~
+
+### Run example on windows
+```
+php -f index.php
+```
